@@ -1,0 +1,17 @@
+# Produção de conhecimento em rede 
+
+Você já parou para pensar que, tradicionalmente, a produção de conhecimento erudito sempre foi atribuição do ambiente acadêmico? Por muitos anos, somente as universidades, escolas e notórios centros de pesquisa é que concentravam os melhores pesquisadores e especialistas para poder garantir a excelência no ensino. 
+
+Da mesma forma, enciclopédias e livros de autores consagrados eram as únicas fontes reconhecidas e referenciadas. Mas, independentemente de você ainda concordar com esse modelo ou não, vale lembrar que esse cenário, durante muitos anos, atendeu a poucos, somente aos que de fato conseguiam ter acesso a um ambiente acadêmico. 
+
+Grande parte da população no Brasil, por exemplo, ficou excluída da escola e, principalmente, da universidade. Com a industrialização e a necessidade de formar mais pessoas para o então mercado emergente, o modelo de educação passou a ser pautado para atendimento às massas, justamente com o intuito de aumentar e qualificar a força de trabalho. Foi quando vimos esse modelo contribuir com a consolidação do conhecimento compartimentado em suas respectivas áreas de saber. Além disso, um mesmo formato padrão de ensino-aprendizagem para todos, organizado em séries ou anos.
+
+Com o advento da Internet, temos observado uma transformação profunda na forma como nos comunicamos e produzimos, seja no trabalho, no ambiente acadêmico ou nas relações sociais. A internet vem favorecendo a democratização do acesso à informação e, sem dúvida nenhuma, com o passar do tempo, também o acesso ao conhecimento e a produções culturais diversificadas.
+
+A possibilidade de criar e compartilhar saberes se expande a cada dia com a variedade de ambientes on-line e redes sociais digitais que temos hoje.  Para denominar a sociedade atual, os termos utilizados são vários - sociedade da informação, do conhecimento, em rede -, mas tudo converge para a ideia de mudança de um padrão industrial de produção em série em que o modelo era previsível, controlado, hierarquizado e escasso, já que se baseava num suporte físico, para um novo modelo cada vez mais pautado pela flexibilidade, incerteza, interdependência e, especialmente, pelas inúmeras oportunidades a serem exploradas. Esse novo modelo tem sido relacionado ao conceito de VUCA (Volátil, Incerto, Complexo e Ambíguo), você já ouviu falar dele? 
+
+[vídeo](https://www.youtube.com/watch?v=_8ryiYfdU2Q&feature=youtu.be)
+
+A lógica de produtos e de coisas materiais, baseada no conceito da escassez, vem perdendo espaço para a crescente valorização do talento humano, das relações interpessoais e da colaboração, algo que é inesgotável e abundante se soubermos a melhor forma de impulsionar seu desenvolvimento.
+
+Um bom exemplo de nova produção favorecida pela tecnologia é o [software livre](https://www.gnu.org/philosophy/free-sw.pt-br.html) , cujo código é disponibilizado, compartilhado e reutilizado, desde que as regras da comunidade sejam respeitadas. Assim, o potencial de criação e compartilhamento não se esgota. A Wikipedia parte da mesma lógica. Em cinco anos, conseguiu ser comparável à Britânica, em termos quantitativos, pois equivalia a mais de 1250 volumes, contra os 32 da Britânica ([dados de 2007](https://pt.wikipedia.org/wiki/Ficheiro:Size_of_English_Wikipedia.svg)). Para ver mais dados sobre o projeto da Wikimedia Foundation, responsável pela Wikipedia, [clique aqui](https://stats.wikimedia.org/#/all-projects). 
