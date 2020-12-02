@@ -10,7 +10,9 @@ Por outro lado, a noção de “comum” no singular enfatiza que há certas coi
 
 >No documentário *El Bien Comun*, de 2002, a canadense Carole Poliquin mostra como a concepção de bem comum é incompatível com a visão de mercado apenas voltada para o lucro. Mais atual do que nunca, o filme incentiva a reflexão sobre a forma como os interesses do setor privado estão comprando e vendendo elementos cruciais para a vida humana:
 
-[Documentário](https://youtu.be/4mYH7aWmDdg)
+<video width="320" height="240" controls>
+  <source src="https://youtu.be/4mYH7aWmDdg" type="video/mp4">
+</video>
 
 O interesse pela noção de bem comum parece estar crescendo. Em 2009, produziu-se no Fórum Social Mundial um manifesto pela “Recuperação dos Bens Comuns”, que alcançou impacto significativo, chegando a ser traduzido em oito idiomas e assinado por mais de 1400 entidades e indivíduos. Em 2015, os [Objetivos do Desenvolvimento Sustentável](https://nacoesunidas.org/pos2015/) também trazem em sua introdução a afirmação de que “o planeta Terra e seus ecossistemas são a nossa casa comum”, e os objetivos apontam que certos elementos (como água, saúde, conhecimento, energias renováveis) são fundamentais para o bem comum da humanidade. 
 
