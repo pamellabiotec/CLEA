@@ -4,9 +4,6 @@ As primeiras iniciativas de uso pedagógico das tecnologias digitais de informa�
 
 Tratava-se do LOGO, uma linguagem de programação inspirada nos princípios do construcionismo que tinha por objetivo ensinar crianças a programar computadores usando uma tartaruga gráfica. Veja a imagem abaixo: 
 
-<img src="https://pt.m.wikipedia.org/wiki/Ficheiro:KTurtle-screenshot.png">
-Fonte: Wikipedia
-
 Vale lembrar que tecnologias de uma forma geral sempre foram consideradas potenciais agentes de incentivo à mudança e melhoria na educação, mesmo antes do advento da web. Praticamente por todo o século XX, os principais debates sobre a necessidade de reforma educacional envolveram propostas de uso pedagógico dos meios de comunicação de massa.  
 
 Foram várias as iniciativas e políticas que – com mais ou menos sucesso – buscaram explorar usos educacionais do cinema, rádio, televisão e, a partir dos anos 80, dos computadores e Internet.  
@@ -17,9 +14,7 @@ A ênfase das primeiras políticas se concentrou na educação básica e públic
 
 No vídeo abaixo, o professor Tel Amiel, da UnB, faz uma relação de como as mídias de massa iniciaram a popularização da educação aberta, que veremos nos demais módulos deste curso: 
 
-<video width="320" height="240" controls>
-  <source src="https://youtu.be/ZXVBg7AneJg" type="video/mp4">
-</video>
+[video](https://youtu.be/ZXVBg7AneJg)
 
 A popularização da internet, como uma biblioteca infinita de conteúdos e viabilizadora da comunicação em tempo real, materializou a ideia de produzir de forma colaborativa e da educação centrada no aprendiz, a partir das experiências do LOGO.  
 
@@ -34,9 +29,7 @@ A web, termo simplificado de World Wide Web, foi desenvolvida a partir de uma l�
 
 O que bem pouca gente sabe sobre a internet é que, sendo ela uma rede que conecta computadores de todo o mundo, isso se dá por meio de cabos submarinos. Costumamos ouvir dizer que a internet estaria na "nuvem ", ou seja, em algum espaço no céu e invisível. Porém, a internet tem uma infra-estrutura bastante concreta por meio de cabos submarinos, que sustentam 99% da comunicação via internet no mundo. Vejamos o vídeo a seguir da Business Insider. Os textos estão em inglês, por isso concentre-se nas imagens que nos permitem visualizar a robustez do sistema:  
 
-<video width="320" height="240" controls>
-  <source src="https://youtu.be/DKHZKTRyzeg" type="video/mp4">
-</video>
+[video](https://youtu.be/DKHZKTRyzeg)
 
 ## Acesso e tipos de uso da internet
 

@@ -36,6 +36,4 @@ Aaron foi preso em 2011 por descarregar grandes volumes de artigos científicos 
 Ele foi acusado do crime de invasão de computadores – sujeito ao cumprimento de até 35 anos de prisão mais multa de mais de um milhão de dólares.
 
 Saiba mais sobre o [processo e a luta de Aaron Swartz](https://pt.wikipedia.org/wiki/Aaron_Swartz) pelo conhecimento livre e assista o filme "O Menino da Internet: A História de Aaron Schwartz".
-<video width="320" height="240" controls>
-  <source src="https://youtu.be/uAe_9qBxwOc" type="video/mp4">
-</video>
+[video](https://youtu.be/uAe_9qBxwOc)

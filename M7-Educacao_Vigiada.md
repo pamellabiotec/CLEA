@@ -1,0 +1,35 @@
+Educação Vigiada? 
+
+Neste tópico vamos refletir sobre como a educação se relaciona com os direitos digitais. Tomemos como exemplo a situação de pandemia COVID-19 que vai marcar o ano de 2020 no Brasil. Como parte do esforço coletivo de frear a disseminação da doença, escolas e universidades suspenderam as aulas e passaram a adotar o que se convencionou chamar de "educação emergencial remota". Para isso, decidiram utilizar amplamente ferramentas, aplicativos e plataformas que foram ofertadas "gratuitamente"  por empresas  de tecnologia. 
+
+Por mais que atos de apoio e solidariedade sejam bem-vindos, isso não invalida a necessidade de análise criteriosa por parte dos gestores educacionais antes de aceitar ofertas “grátis". Se o serviço é tão bom e sem custo, como essas empresas se sustentam? Questionamento que, infelizmente, não tem estado presente nas decisões dessa natureza, o que é bastante grave pois trata-se de uma ação que envolve um apanhado de diversos direitos que se inter-relacionam, como o direito à educação, à privacidade e à proteção de dados. "Essas parcerias não envolvem dispêndio de recursos financeiros, mas há um valor oculto extraído da coleta de nossos dados e metadados”, explica o professor e pesquisador Tel Amiel, da Universidade de Brasília
+
+Lançado em abril de 2020, o mapeamento [Educação Vigiada](http://www.educacaovigiada.org.br/) revelou que 65% das universidades públicas e secretarias estaduais de educação no Brasil estão expostas ao chamado “capitalismo de vigilância”, termo utilizado para designar modelos de negócios baseados na ampla extração de dados pessoais por algoritmos e técnicas de inteligência artificial para obter previsões sobre o comportamento dos usuários e com isso ofertar produtos e serviços.
+
+O problema da vigilância começou a ganhar destaque nos noticiários a partir de 2013 com as denúncias do ex-oficial da Agência de Segurança Nacional (NSA) dos EUA, [Edward Snowden](https://g1.globo.com/tudo-sobre/edward-snowden/), de que o governo americano mantinha programas de espionagem em massa de seus cidadãos e de autoridades de outros países em parceria com grandes empresas de tecnologia. Dados pessoais vêm sendo coletados de forma persistente e extensa e são hoje o motor que gera o lucro das mais famosas corporações de tecnologia do planeta, como Google e Facebook. 
+
+A reportagem destaca que os dados podem ser considerados hoje o "novo petróleo"  em termos de riqueza, por isso são hoje considerados o recurso mais valioso do mundo e coloca, na ilustração, como se fossem refinarias de petróleo, nomes das algumas das principais companhias que mais prosperam nesse contexto, tais como Google, Facebook, Microsoft, Uber, Amazon. 
+
+Esse aspecto relacionado ao poder dos dados vem sendo também pontuado por estudiosos em todo o mundo, como por exemplo, a professora da Universidade de Harvard, [Shoshana Zuboff](https://diplomatique.org.br/um-capitalismo-de-vigilancia/), em seu livro "Capitalismo de Vigilância", que chama a atenção para a necessidade de regulação do setor. O professor israelense, [Yuval Harari](https://www.uol.com.br/tilt/noticias/redacao/2019/11/11/escritor-yuval-harari-roda-viva-entrevista.htm), também tem destacado em suas palestras e livros best-sellers, especialmente o "21 Lições para o Século XXI, a necessidade urgente de entender e refletir sobre o que ele chama de "ditadura digital" por meio do amplo domínio dos dados por parte de poucas instituições, seja empresas ou governos.
+
+O autor bielorruso,  [Evgeny Morosov](https://tab.uol.com.br/noticias/redacao/2020/03/26/cidades-inteligentes-nao-passam-de-conto-de-fadas-provoca-evgeny-morozov.htm), autor de "Big Tech: A ascensão dos dados e a morte da política", chama a atenção para a manipulação de dados que levam à predição e ameaçam a democracia. No Brasil, o professor da Universidade Federal do ABC,  [Sergio Amadeu](https://www.sescsp.org.br/online/edicoes-sesc/541_TUDO+SOBRE+TODS#/tagcloud=lista), discute bastante esse tema por meio do canal [Tecnopolítica](https://www.youtube.com/channel/UCDy46jf2mcg8xySzrqV5pxw) e de seu livro  "Tudo sobre Todos: redes digitais, privacidade e venda de dados pessoais".
+
+O uso da tecnologia no dia-a-dia das escolas e dos estudantes é uma realidade cada vez mais palpável. É comum a propagação dos benefícios das tecnologias aplicadas a questões pedagógicas, seja através de aplicativos que visam facilitar a aprendizagem dos alunos, seja em ferramentas administrativas utilizadas por educadores e gestores.
+
+No entanto, nem sempre os estudantes, pais, educadores têm pleno conhecimento acerca das implicações da tecnologia sobre o cotidiano. Cada vez mais, as tecnologias dependem dos nossos dados pessoais para se tornar mais eficiente e menos dependente do humano. Não existe outro caminho para vislumbrar relações sociais assertivas, a partir  dos constantes avanços e transformações geradas pelas tecnologias, que não passe pela educação. É preciso termos conhecimento sobre os riscos envolvidos e sobre a própria forma como o nosso relacionamento com o digital molda a realidade. 
+
+Ao implementarmos tecnologias em nossas escolas, podemos expor nossos estudantes e educadores à coleta massiva de dados. O que pode ser feito com os dados que contam toda a história escolar de nossos alunos? Por quanto tempo esses dados são armazenados? No futuro, poderemos ser afetados por dados coletados sobre nós ainda quando éramos crianças no contexto escolar?
+
+Como vimos nos capítulos sobre a [Lei Geral de Proteção de Dados Pessoais (LGPD)](https://github.com/pamellabiotec/CLEA/blob/master/M7-LGPD.md),  é fundamental que gestores, educadores e famílias repensem seu papel pedagógico em relação às escolhas que fazem, pois dados de crianças e adolescentes que estão sendo utilizados sem respaldo em regulação existente. Mesmo no caso de pacotes para uso educacional, como Google Education que alegam não utilizar dados de estudantes para finalidades comerciais, quando os estudantes utilizam o Youtube, por exemplo, não existe mais esse tratamento diferenciado. 
+
+Nesse sentido, é urgente que o tema deve ser debatido nos ambientes educacionais, pois além do problema da proteção de dados, não se pode privar os educandos de saber que existem outras opções similares em código aberto, que permitem mais transparência sobre como os dados são utilizados. 
+
+No vídeo abaixo, podemos entender melhor sobre como funciona o modelos de negócios das empresas de tecnologia que operam no Big Data, que vimos em outro tópico deste módulo:  
+
+[vídeo](https://youtu.be/f35ysIOLMzc)
+
+Para aprofundar:
+
+[Como as gigantes de tecnologia lidam com os dados de crianças](https://olhardigital.com.br/video/como-as-gigantes-de-tecnologia-lidam-com-os-dados-de-criancas/78553)
+[Relatório de workshop](https://www.ibm.com/ibm/responsibility/br-pt/downloads/e-book-IA-na-educacao.pdf) - Possibilidades da Inteligência Artificial na Educação 
+[Nota técnica](https://cieb.net.br/wp-content/uploads/2019/11/CIEB_Nota_Tecnica16_nov_2019_digital.pdf) - Inteligência Artificial na Educação
